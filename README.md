@@ -56,12 +56,17 @@ The Cinema Reservation Desktop Application is designed to simplify the process o
 
 ![telegram-cloud-photo-size-2-5433763375181054764-y](https://github.com/user-attachments/assets/6094a706-7d04-4bd4-a77f-bb0d99bb2ddc)
 
+![telegram-cloud-photo-size-2-5415637792853181572-y](https://github.com/user-attachments/assets/e8b8d80f-d6e8-40fd-a528-c295e0166515)
+
 
 ## Technologies used
 
 **Java:** The main programming language used for the application
+
 **JavaFX:** For building the user interface
+
 **MySQL:** Database for storing user, movie, and reservation data
+
 **Maven:** For project build and dependency management
 
 ##Contact
