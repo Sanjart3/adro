@@ -69,7 +69,8 @@ The Cinema Reservation Desktop Application is designed to simplify the process o
 
 **Maven:** For project build and dependency management
 
-##Contact
+## Contact
+
 If you have any questions, feel free to contact us at:
 
 **Email:** support@cinemaapp.com
